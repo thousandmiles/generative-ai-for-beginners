@@ -1,0 +1,7 @@
+name: MicroSoft_AI_Learning
+channels:
+ - defaults
+dependencies:
+- python=3.12
+- openai
+- python-dotenv
